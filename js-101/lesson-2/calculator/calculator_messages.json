@@ -1,0 +1,44 @@
+{
+  "en": {
+    "welcome": "Welcome to Calculator! Enter your name:",
+    "validName": "Make sure to enter a valid name.",
+    "firstNumber": "What's the first number ?",
+    "secondNumber": "What's the second number ?",
+    "invalidNumber": "Hmm... that doesn't look like a valid number.",
+    "operationChoice": "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+    "mustChoose": "Must choose from 1, 2, 3 or 4.",
+    "result": "The result is: ",
+    "anotherCalc": "Would you like to do another caculation? Respond with 'Yes' or 'No': ",
+    "yesOrNo" : "Please respond with either 'Yes' or 'No'.",
+    "preferredLang" : "Please enter your preferred language (en, es, fr)",
+    "validLanguage" : "Enter a valid language."
+  },
+  "es": {
+    "welcome": "Bienvenido a la calculadora! Entre su nombre:",
+    "validName": "Asegúrese de entrar un nombre válido.",
+    "firstNumber": "¿Cuál es el primer número ?",
+    "secondNumber": "¿Cuál es el segundo número ?",
+    "invalidNumber": "Hmm... eso no parece un número válido.",
+    "operationChoice": "¿Qué operación le gustaría realizar?\n1) Sumar 2) Restar 3) Multiplicar 4) Dividir",
+    "mustChoose": "Debe elegir entre 1, 2, 3 o 4.",
+    "result": "El resultado es: ",
+    "anotherCalc": "¿Te gustaría hacer otro cálculo? Responda con 'Yes' o 'No': ",
+    "yesOrNo" : "Responda con 'Yes' o 'No'.",
+    "preferredLang" : "Por favor ingrese su idioma preferido (en, es, fr).",
+    "validLanguage" : "Introduzca un idioma válido."
+  },
+  "fr": {
+    "welcome": "Bienvenue sur Calculatrice ! Entrez votre nom:",
+    "validName": "Assurez-vous d'entrer un nom valide.",
+    "firstNumber": "Quel est le premier numéro ?",
+    "secondNumber": "Quel est le deuxième numéro ?",
+    "invalidNumber": "Hmm... ça ne ressemble pas à un numéro valide.",
+    "operationChoice": "Quelle opération souhaitez-vous effectuer ?\n1) Additionner 2) Soustraire 3) Multiplier 4) Diviser",
+    "mustChoose": "Doit choisir entre 1, 2, 3 ou 4.",
+    "result": "Le résultat est: ",
+    "anotherCalc": "Souhaitez-vous faire un autre calcul ? Répondez par 'Yes' ou 'No': ",
+    "yesOrNo" : "Veuillez répondre par 'Yes' ou No.",
+    "preferredLang" : "Veuillez entrer votre langue préférée (en, es, fr).",
+    "validLanguage" : "Saisissez une langue valide."
+  }
+}
